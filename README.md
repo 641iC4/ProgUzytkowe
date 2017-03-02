@@ -1,5 +1,5 @@
 # ProgUzytkowe
-**Bold** autor:
+**Autor**
 * List Jedrzej Drazkowski
 # OpisProjektu
-*Italic* spoko projekt
+*Spoko projekt* 
