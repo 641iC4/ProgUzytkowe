@@ -1,0 +1,12 @@
+1.Czym siê ró¿ni branch od checkout?
+2.Czym siê ró¿ni reset od revert?
+3.W jaki sposób mogê przenieœæ siê do danego commita?
+4.W jaki sposób mogê prze³¹czyæ siê na inn¹ga³¹Ÿ kodu?
+5.W jaki sposób mogê scaliæ  zmiany?
+6.Czym siê ró¿ni fetch od pull?
+Ad1. Branch to galez, w ktorej przechowujemy nasze zmiany. Checkout przelacza nas miedzy galeziami lub powraca do wczesniejszego commita.
+Ad2. Reset usuwa pliki z poczekalni,revert jest uzywane zeby dodac nowy commit aby poprawic wczesniejszy, nieudany commit.
+Ad3. Bedac w danej galezi wpisujemy git checkout kod_komita
+Ad4. git checkout NAZWA_GA£ÊZI
+Ad5. git checkout NAZWA_GA£ÊZI, git merge GA£¥_DO_SCALENIA_Z_POPRZEDNI¥
+Ad6. pull pobiera ga³¹Ÿ z repozytorium, natomiast fetch automatycznie scala zmiany w lokalnych ga³êziach
