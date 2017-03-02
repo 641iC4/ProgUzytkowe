@@ -1,6 +1,5 @@
 # ProgUzytkowe
 **Autor**
 * List Jedrzej Drazkowski
-Opis Projektu
--------------
+## Opis Projektu ##
 *Spoko projekt* 
