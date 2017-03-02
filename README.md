@@ -1,4 +1,4 @@
-<h1>ProgUzytkowe</h1> s¹ super
+<h1>ProgUzytkowe sa super</h1>
 **Autor**
 * Jedrzej Drazkowski
 <h2>Opis Projektu</h2>
