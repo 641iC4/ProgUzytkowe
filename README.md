@@ -1,5 +1,5 @@
-# ProgUzytkowe
+<h1>ProgUzytkowe
 **Autor**
 * List Jedrzej Drazkowski
-## Opis Projektu ##
+<h2>Opis Projektu
 *Spoko projekt* 
